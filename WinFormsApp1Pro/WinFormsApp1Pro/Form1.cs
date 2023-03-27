@@ -36,26 +36,35 @@ namespace WinFormsApp1Pro
 
         public void DMLQueries(string e)
         {
-            if (e == "Select")
+            try
             {
-                MessageBox.Show("Select");
+                if (e == "Select")
+                {
+                    MessageBox.Show("Select");
+                }
+                else if (e == "Insert")
+                {
+                    MessageBox.Show("Insert");
+                }
+                else if (e == "Update")
+                {
+                    MessageBox.Show("Update");
+                }
+                else if (e == "Delete")
+                {
+                    MessageBox.Show("Delete");
+                }
+                else
+                {
+                    MessageBox.Show("Exit");
+                }
             }
-            else if (e == "Insert")
+            catch (Exception ex)
             {
-                MessageBox.Show("Insert");
+
+                MessageBox.Show(ex.Message);
             }
-            else if (e == "Update")
-            {
-                MessageBox.Show("Update");
-            }
-            else if (e == "Delete")
-            {
-                MessageBox.Show("Delete");
-            }
-            else 
-            {
-                MessageBox.Show("Exit");
-            }
+           
         }
     }
 

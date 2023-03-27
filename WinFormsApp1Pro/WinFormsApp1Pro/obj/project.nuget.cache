@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kw/SGj8/NCavSN/5fZw7LiBq5PwSMZqdLaFoG3qhEtkGnUONsbRvO6YNmXFmLYMHbRgWqMvnuJFjpalU3s3Usw==",
+  "dgSpecHash": "8E6kG8fPovx08r4RO8Hd8bd2ArdlwLvmtmXovOR7IJ6d7PKpTWP/BFHe2fXSW1Yq9wPfw4jnRmjVYo+/nBYrNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\15145\\source\\repos\\WinFormsApp1Pro\\WinFormsApp1Pro\\WinFormsApp1Pro.csproj",
+  "projectFilePath": "C:\\Users\\15145\\Desktop\\Issraa\\ABMcsharpPractice-\\WinFormsApp1Pro\\WinFormsApp1Pro\\WinFormsApp1Pro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\15145\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
     "C:\\Users\\15145\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
